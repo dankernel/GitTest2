@@ -1,2 +1,6 @@
 First Commit
 Add text.
+
+int f1() {
+	//
+}
